@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
 
 
-## **Contato**
+## **GMAIL**
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><h5>eduandretta@gmail.com</h5>
 
