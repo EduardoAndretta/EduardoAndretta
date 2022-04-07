@@ -28,7 +28,16 @@
 
 ## **Estatísticas**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndretta&theme=tokyonight&hide_langs_below=1" /><img align="top" src="https://github-readme-stats.vercel.app/api?username=EduardoAndretta&show_icons=true&theme=tokyonight&hide_langs_below=1"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndretta&theme=tokyonight&hide_langs_below=1" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoAndretta&show_icons=true&theme=tokyonight&hide_langs_below=1"/>
+</p>
+
+
+
 
 
 
