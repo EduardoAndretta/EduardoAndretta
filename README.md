@@ -33,10 +33,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAndretta&theme=tokyonight&hide_langs_below=1" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoAndretta&show_icons=true&theme=tokyonight&hide_langs_below=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoAndretta&show_icons=true&theme=tokyonight&hide&repo&hide_langs_below=1"/>
 </p>
 <p align="center">
-  <a href="https://github.com/distopia-jogo/distopia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&layout=compact&theme=chartreuse-dark&repo=distopia"></a>
+  <a href="https://github.com/distopia-jogo/distopia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&layout=compact&theme=tokyonight&hide&repo=distopia"></a>
 </p>
 
 
