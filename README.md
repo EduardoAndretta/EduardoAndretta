@@ -35,9 +35,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoAndretta&show_icons=true&theme=tokyonight&hide_langs_below=1"/>
 </p>
-
-
-
+<p align="center">
+  <a href="https://github.com/distopia-jogo/distopia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=distopia-jogo&layout=compact&theme=chartreuse-dark&repo=distopia"></a>
+</p>
 
 
 
